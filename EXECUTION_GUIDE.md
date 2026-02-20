@@ -79,7 +79,7 @@ git commit -m "Initial commit: project structure"
 
 # Create GitHub repo (do this manually on GitHub.com)
 # Then connect:
-git remote add origin https://github.com/YOUR_USERNAME/ai-systems-21day.git
+git remote add origin https://github.com/AbdallahMakboua/production-ai-platform/
 git branch -M main
 git push -u origin main
 ```
