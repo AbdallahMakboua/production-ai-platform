@@ -1,12 +1,24 @@
 # 🎯 Complete Execution System Created - START HERE
 
+> **📍 [DOCUMENTATION_MAP.md](DOCUMENTATION_MAP.md) - Read this first to understand which documents to use and avoid confusion**
+
 ## ✨ What You Now Have
 
 I've created a **complete, production-grade execution system** for your 21-day AI DevOps journey. Not just a plan—a full operational framework with every detail worked out.
 
 ---
 
-## 📚 8 Documents Created for You
+## 🎯 TL;DR - Three Documents You Actually Need
+
+1. **[DAYS_1-3_DETAILED_WORKFLOW.md](DAYS_1-3_DETAILED_WORKFLOW.md)** ← Follow this day-by-day during execution
+2. **[docs/LEARNINGS.md](docs/LEARNINGS.md)** ← Reference for technical decisions & issue solutions
+3. **[docs/architecture/](docs/architecture/)** ← Architecture & design rationale by day
+
+**See [DOCUMENTATION_MAP.md](DOCUMENTATION_MAP.md) for full explanation of all documents.**
+
+---
+
+## 📚 Supporting Documents
 
 ### 1. **[QUICK_START.md](QUICK_START.md)** ⭐ START HERE
 - **Purpose:** Your daily routine (5 minutes to read)
